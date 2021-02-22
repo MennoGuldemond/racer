@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: Easy
   m_EditorClassIdentifier: Assembly-CSharp::LevelSettings
-  levelLength: 2
+  levelLength: 20
   gapMin: 4
   gapMax: 9
   sidewaysDistance: 4
